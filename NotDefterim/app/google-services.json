@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002607067143",
+    "firebase_url": "https://notdefterim-e6fae.firebaseio.com",
+    "project_id": "notdefterim-e6fae",
+    "storage_bucket": "notdefterim-e6fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002607067143:android:569ba9f0ae41767f",
+        "android_client_info": {
+          "package_name": "com.damlakayali.notdefterim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002607067143-lpqkq3410iibhjc0aslm5mas39qrk2o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damlakayali.notdefterim",
+            "certificate_hash": "2aff7cbc677f1f892300b2a6caea87171f7edd83"
+          }
+        },
+        {
+          "client_id": "1002607067143-1ugcgj8d2nb8rmeri1ci1fgnf5r1qn32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HOXJrx3KcPhQd1rtSuPlXDeV6O8SgOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002607067143-1ugcgj8d2nb8rmeri1ci1fgnf5r1qn32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
