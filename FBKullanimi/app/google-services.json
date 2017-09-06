@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306907106852",
+    "firebase_url": "https://fbkullanimi.firebaseio.com",
+    "project_id": "fbkullanimi",
+    "storage_bucket": "fbkullanimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306907106852:android:7d5bbba43b40fa1b",
+        "android_client_info": {
+          "package_name": "com.damlakayali.fbkullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306907106852-pvhhpmltf4ulbumcrgv4mnl3crads7sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damlakayali.fbkullanimi",
+            "certificate_hash": "2aff7cbc677f1f892300b2a6caea87171f7edd83"
+          }
+        },
+        {
+          "client_id": "306907106852-t6afs2md7lfg8e3k20vphlro8hu19f6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqadySHJ1xObWCSr_Z7Z2aQIYT73oKIN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306907106852-t6afs2md7lfg8e3k20vphlro8hu19f6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
